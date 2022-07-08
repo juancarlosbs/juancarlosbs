@@ -1,6 +1,8 @@
 ### Hi, I'm Juan Carlos 🚀
 
-<iframe align="right" src="https://giphy.com/embed/l3978y5HqiEtqupiM" width="200" frameBorder="0" class="giphy-embed" allowFullScreen />
+<a href="https://myoctocat.dev/@sw-yx/octocat">
+  <img align="right" src="https://giphy.com/embed/l3978y5HqiEtqupiM" width="200" />
+</a>
 
 <div align="center">
   <a href="https://github.com/juancarlosbs">
