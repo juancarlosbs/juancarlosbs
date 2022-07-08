@@ -1,7 +1,7 @@
 ### Hi, I'm Juan Carlos 🚀
 
 <a href="https://myoctocat.dev/@sw-yx/octocat">
-  <img align="right" src="[https://giphy.com/embed/l3978y5HqiEtqupiM](https://media.giphy.com/media/l3978y5HqiEtqupiM/giphy.gif)" width="200" />
+<iframe src="https://giphy.com/embed/l3978y5HqiEtqupiM" width="480" height="422" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/space-pixel-art-planet-l3978y5HqiEtqupiM">via GIPHY</a></p>
 </a>
 
 <div align="center">
