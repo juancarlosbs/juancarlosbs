@@ -16,3 +16,5 @@
  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
+
+![snake gif](https://github.com/juancarlosbs/juancarlosbs/blob/output/github-contribution-grid-snake.svg)
