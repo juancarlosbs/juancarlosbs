@@ -15,8 +15,6 @@ Currently I'm a Full-Stack Javascript Developer, with more than 2 years of exper
  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 </div> 
-
-![snake gif](https://github.com/juancarlosbs/juancarlosbs/blob/output/github-contribution-grid-snake.svg)
   
 ### Contact 
 
