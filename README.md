@@ -2,7 +2,7 @@
 
 ### About 
 
-<img align="right" width="300" height="300" src="https://github.com/user-attachments/assets/c2861662-31b9-472e-b6a4-0b38cfdfd88b" />
+<img align="right" width="300" height="350" src="https://github.com/user-attachments/assets/c2861662-31b9-472e-b6a4-0b38cfdfd88b" />
   I am passionate about technology, I started studying programming out of curiosity, making it happen became a passion.  
   Currently I'm a Full-Stack Javascript Developer, with more than 4 years of experience. 
 
