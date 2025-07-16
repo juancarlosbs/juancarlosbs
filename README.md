@@ -12,7 +12,7 @@ I'm currently working on an **application to manage service scheduling** and a *
 - **Linguagens:** JavaScript, TypeScript, Python  
 - **Front-end:** React, Next.js, Tailwind CSS  
 - **Back-end:** Node.js, Express, NestJS  
-- **Database:** PostgreSQL, MongoDB  
+- **Database:** PostgreSQL, MongoDB, Redis  
 - **DevOps:** Docker, GitHub Actions
 
 ### 🏆 **Highlighted Projects**
