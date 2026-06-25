@@ -28,5 +28,5 @@ I also enjoy games, especially those that require strategy or skill, such as rac
 ### Shall we talk? 
 If you want to chat about technology, motorsport or games, just give us a call!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-carlos-benvive-serrano-529615195/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mejuancarlosbs/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_juancarlosbs/)
